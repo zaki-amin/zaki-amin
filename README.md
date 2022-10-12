@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zaki-amin, a second-year Computing student at Imperial College London
-- 👀 I’m interested in Java, Kotlin, Haskell and C.
+- 👋 Hi, I’m @zaki-amin, a third-year Computing student at Imperial College London
+- 👀 I’m interested in Java, Scala, Kotlin, Haskell, C++ and C.
 - 🌱 I’m currently learning Android app development with Kotlin.
-- 💞️ I’m looking for internships during summer 2022.
+- 💞️ I’m looking for 6-month placements for spring 2023.
 - 📫 You can reach me here on github.
 
 <!---
